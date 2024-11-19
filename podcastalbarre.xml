@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>A LA BARRE</title>
+  <link>https://www.youtube.com/playlist?list=PLj5pJDQwMt23dh0Bv3hPaDEgsvuo-7jcn</link>
+  <description>LE Podcast des + Grands Avocats Francais</description>
+  <itunes:author>TELEDROIT</itunes:author>
+  <itunes:owner>
+    <itunes:name>TELEDROIT</itunes:name>
+    <itunes:email>teledroit@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:subtitle>LE Podcast des + Grands Avocats Français - YouTube</itunes:subtitle>
+  <itunes:image href="https://res.cloudinary.com/dh2eofcns/provider/youtube.png"/>
+  <generator>FetchRSS</generator>
+
+  <!-- Episode 1 -->
+  <item>
+    <title>Avocat du + GRAND Fait Divers de France selon ChatGPT, Me Randal Schwerdorffer passe #ALaBarre</title>
+    <link>https://www.youtube.com/watch?v=wKihnmgE65Y</link>
+    <description>
+      <![CDATA[
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/wKihnmgE65Y" allowfullscreen></iframe>
+      ]]>
+    </description>
+    <pubDate>Wed, 26 Sep 2024 22:03:18 +0000</pubDate>
+    <itunes:image href="https://i.ytimg.com/vi/wKihnmgE65Y/sddefault.jpg"/>
+    <guid>wKihnmgE65Y</guid>
+  </item>
+
+  <!-- Episode 2 -->
+  <item>
+    <title>Rencontre avec Me Nabil Boudi l'Avocat de l'Année 2023 + Remise de son TELEDROIT D'OR !</title>
+    <link>https://www.youtube.com/watch?v=DjvM35G-qKw</link>
+    <description>
+      <![CDATA[
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/DjvM35G-qKw" allowfullscreen></iframe>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 May 2024 12:30:41 +0000</pubDate>
+    <itunes:image href="https://i.ytimg.com/vi/DjvM35G-qKw/sddefault.jpg"/>
+    <guid>DjvM35G-qKw</guid>
+  </item>
+
+  <!-- Episode 3 -->
+  <item>
+    <title>Qui est Me Avi Bitton, l'Avocat aux +15M de vues en seulement quelques mois sur les réseaux ?</title>
+    <link>https://www.youtube.com/watch?v=sR_oqj_eyF4</link>
+    <description>
+      <![CDATA[
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/sR_oqj_eyF4" allowfullscreen></iframe>
+      ]]>
+    </description>
+    <pubDate>Tue, 12 Mar 2024 16:08:25 +0000</pubDate>
+    <itunes:image href="https://i.ytimg.com/vi/sR_oqj_eyF4/sddefault.jpg"/>
+    <guid>sR_oqj_eyF4</guid>
+  </item>
+
+  <!-- Episode 4 -->
+  <item>
+    <title>Me Derambarsh Passe #ALABARRE pour une Interview Croustillante Sans Concession</title>
+    <link>https://www.youtube.com/watch?v=0HJhxo4N0pA</link>
+    <description>
+      <![CDATA[
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/0HJhxo4N0pA" allowfullscreen></iframe>
+      ]]>
+    </description>
+    <pubDate>Wed, 08 Feb 2023 17:42:44 +0000</pubDate>
+    <itunes:image href="https://i.ytimg.com/vi/0HJhxo4N0pA/sddefault.jpg"/>
+    <guid>0HJhxo4N0pA</guid>
+  </item>
+
+  <!-- Episode 5 -->
+  <item>
+    <title>Manu Fitoussi remet le Trophée de L'AVOCAT DE L'ANNÉE 2022 à Me Battikh, HISTORIQUE #TeledroitOr</title>
+    <link>https://www.youtube.com/watch?v=SPNqKaYTlKM</link>
+    <description>
+      <![CDATA[
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/SPNqKaYTlKM" allowfullscreen></iframe>
+      ]]>
+    </description>
+    <pubDate>Sat, 28 Jan 2023 18:56:15 +0000</pubDate>
+    <itunes:image href="https://i.ytimg.com/vi/SPNqKaYTlKM/sddefault.jpg"/>
+    <guid>SPNqKaYTlKM</guid>
+  </item>
+
+</channel>
+</rss>
